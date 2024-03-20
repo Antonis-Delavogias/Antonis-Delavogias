@@ -24,10 +24,10 @@
 
 ## 🚀 **Completed Courses:** 
 
-* [The Odin Project - HTML & CSS] (https://www.connectinglink.com/courses/categories/1-credit-courses) - This course provided a comprehensive introduction to JavaScript and its core concepts.
-* [Getting Started with JavaScript, v2] (https://frontendmasters.com/courses/getting-started-javascript-v2/) by Kyle Simpson
-* [JavaScript: From First Steps to Professional] (https://frontendmasters.com/courses/javascript-first-steps/) by Anjana Vakil
-* [JavaScript: The Hard Parts, v2] (https://frontendmasters.com/courses/javascript-hard-parts-v2/) by Will Sentance
+###### * [The Odin Project - HTML & CSS] (https://www.connectinglink.com/courses/categories/1-credit-courses) - This course provided a comprehensive introduction to JavaScript and its core concepts.
+###### * [Getting Started with JavaScript, v2] (https://frontendmasters.com/courses/getting-started-javascript-v2/) by Kyle Simpson
+###### * [JavaScript: From First Steps to Professional] (https://frontendmasters.com/courses/javascript-first-steps/) by Anjana Vakil
+###### * [JavaScript: The Hard Parts, v2] (https://frontendmasters.com/courses/javascript-hard-parts-v2/) by Will Sentance
 
 > [!NOTE] 
 > 🌱 I’m currently learning ...
