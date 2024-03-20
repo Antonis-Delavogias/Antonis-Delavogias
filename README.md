@@ -1,4 +1,4 @@
-**Hi there! 👋**
+<p align="center">**Hi there! 👋**
 
 I'm Antonis Delavogias and I'm on a mission to master JavaScript. I've been diligently studying for the past months and I'm excited to share my progress with you! 
 
@@ -40,20 +40,5 @@ I'm eager to continue honing my skills by:
 * [CS50: Introduction to Computer Science | Harvard University]
 
 😎 **Happy coding!** 😎
-
-
-
-
-
-Here are some ideas to get you started:
-
-- 
-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
 
