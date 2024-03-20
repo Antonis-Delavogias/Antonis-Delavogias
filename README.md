@@ -19,8 +19,8 @@
 
 
 ### * I've gained a solid understanding of JavaScript fundamentals. 
-###* I'm comfortable working with DOM manipulation and events to create interactive web pages. 
-###* I'm constantly expanding my knowledge by exploring more advanced topics like object-oriented programming and asynchronous programming.  
+### * I'm comfortable working with DOM manipulation and events to create interactive web pages. 
+### * I'm constantly expanding my knowledge by exploring more advanced topics like object-oriented programming and asynchronous programming.  
 
 ## 🚀 **Completed Courses:** 
 
