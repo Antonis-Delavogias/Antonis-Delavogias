@@ -16,9 +16,9 @@
 
 <table>
  <tr>
-  <td>I've gained a solid understanding of JavaScript fundamentals.</td>
-  <td>I'm comfortable working with DOM manipulation and events to create interactive web pages.</td>
-  <td>I'm constantly expanding my knowledge by exploring more advanced topics like object-oriented programming and asynchronous programming. </td>
+  <td>###### I've gained a solid understanding of JavaScript fundamentals.</td>
+  <td>###### I'm comfortable working with DOM manipulation and events to create interactive web pages.</td>
+  <td>###### I'm constantly expanding my knowledge by exploring more advanced topics like object-oriented programming and asynchronous programming. </td>
  </tr>
 </table>
 
