@@ -13,10 +13,11 @@
  <img alt="YOUR-ALT-TEXT" src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-1-225993.png?f=webp&w=256" width="160">
 </picture>
  <br><br>
- 
-* I've gained a solid understanding of JavaScript fundamentals. 
-* I'm comfortable working with DOM manipulation and events to create interactive web pages. 
-* I'm constantly expanding my knowledge by exploring more advanced topics like object-oriented programming and asynchronous programming.  
+
+ > [!TIP]
+> I've gained a solid understanding of JavaScript fundamentals. 
+> I'm comfortable working with DOM manipulation and events to create interactive web pages.
+> > I'm constantly expanding my knowledge by exploring more advanced topics like object-oriented programming and asynchronous programming.  
 
 ## 🚀 **Completed Courses:** 
 
