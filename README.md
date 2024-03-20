@@ -35,11 +35,12 @@
 
 ## 🙏 **What's Next:**
 
- I'm eager to continue honing my skills by:
+###### I'm eager to continue honing my skills by:
 
 * [React]
 * [CS50: Introduction to Computer Science | Harvard University]
+<br>
 
-## 😎 **Happy coding!** 😎
+###### 😎 **Happy coding!** 😎
 
 
