@@ -4,6 +4,8 @@ I'm Antonis Delavogias and I'm on a mission to master JavaScript. I've been dili
 
 **Current Skills:**
 
+
+
 <picture>
 <img alt="YOUR-ALT-TEXT" src="https://cdn.iconscout.com/icon/free/png-512/free-html5-42-1175210.png?f=webp&w=256">
 </picture>
@@ -13,6 +15,8 @@ I'm Antonis Delavogias and I'm on a mission to master JavaScript. I've been dili
 <picture>
  <img alt="YOUR-ALT-TEXT" src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-2038874-1720087.png?f=webp&w=256">
 </picture>
+
+
 
 * I've gained a solid understanding of JavaScript fundamentals. 
 * I'm comfortable working with DOM manipulation and events to create interactive web pages. 
