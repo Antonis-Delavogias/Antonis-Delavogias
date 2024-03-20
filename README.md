@@ -18,7 +18,8 @@
 ###### I'm comfortable working with DOM manipulation and events to create interactive web pages.
 ###### I'm constantly expanding my knowledge by exploring more advanced topics like object-oriented programming and asynchronous programming.
 <br>
-## 🚀 **Completed Courses:** 
+
+##  🚀 **Completed Courses:** 
 
 ######  [The Odin Project - HTML & CSS] (https://www.connectinglink.com/courses/categories/1-credit-courses) - This course provided a comprehensive introduction to JavaScript and its core concepts.
 ######  [Getting Started with JavaScript, v2] (https://frontendmasters.com/courses/getting-started-javascript-v2/) by Kyle Simpson
