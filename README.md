@@ -37,8 +37,8 @@
 
 ###### I'm eager to continue honing my skills by:
 
-* [React]
-* [CS50: Introduction to Computer Science | Harvard University]
+###### [React]
+###### [CS50: Introduction to Computer Science | Harvard University]
 <br>
 
 ###### 😎 **Happy coding!** 😎
