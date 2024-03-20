@@ -13,6 +13,8 @@
  <img alt="YOUR-ALT-TEXT" src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-1-225993.png?f=webp&w=256" width="160">
 </picture>
  <br><br>
+ 
+< [!TIP]
 
 > I've gained a solid understanding of JavaScript fundamentals.
 
