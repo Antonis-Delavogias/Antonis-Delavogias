@@ -38,6 +38,6 @@
 
 ## 😎 **Happy coding!** 😎
 
-> [!IMPORTANT]  
+> [!test]  
 > Crucial information necessary for users to succeed.
 
