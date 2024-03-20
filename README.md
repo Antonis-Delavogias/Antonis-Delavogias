@@ -14,14 +14,10 @@
 </picture>
  <br><br>
 
-<table>
- <tr>
-  <td>###### I've gained a solid understanding of JavaScript fundamentals.</td>
-  <td>###### I'm comfortable working with DOM manipulation and events to create interactive web pages.</td>
-  <td>###### I'm constantly expanding my knowledge by exploring more advanced topics like object-oriented programming and asynchronous programming. </td>
- </tr>
-</table>
-
+###### I've gained a solid understanding of JavaScript fundamentals.
+###### I'm comfortable working with DOM manipulation and events to create interactive web pages.
+###### I'm constantly expanding my knowledge by exploring more advanced topics like object-oriented programming and asynchronous programming.
+<br>
 ## 🚀 **Completed Courses:** 
 
 ######  [The Odin Project - HTML & CSS] (https://www.connectinglink.com/courses/categories/1-credit-courses) - This course provided a comprehensive introduction to JavaScript and its core concepts.
