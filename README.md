@@ -4,20 +4,11 @@ I'm Antonis Delavogias and I'm on a mission to master JavaScript. I've been dili
 
 **Current Skills:**
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://cdn.iconscout.com/icon/free/png-512/free-html5-41-1175209.png?f=webp&w=256)">
- <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://cdn.iconscout.com/icon/free/png-512/free-html5-42-1175210.png?f=webp&w=256)">
- <img alt="YOUR-ALT-TEXT" src="[YOUR-DEFAULT-IMAGE](https://cdn.iconscout.com/icon/free/png-512/free-html5-42-1175210.png?f=webp&w=256)">
+ <source media="(prefers-color-scheme: dark)" srcset="https://cdn.iconscout.com/icon/free/png-512/free-html5-41-1175209.png?f=webp&w=256">
+ <source media="(prefers-color-scheme: light)" srcset="https://cdn.iconscout.com/icon/free/png-512/free-html5-42-1175210.png?f=webp&w=256">
+ <img alt="YOUR-ALT-TEXT" src="https://cdn.iconscout.com/icon/free/png-512/free-html5-42-1175210.png?f=webp&w=256">
 </picture>
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+
 
 
 * I've gained a solid understanding of JavaScript fundamentals. 
