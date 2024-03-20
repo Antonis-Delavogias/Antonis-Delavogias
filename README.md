@@ -1,6 +1,6 @@
 **Hi there! 👋**
 
-I'm Antonis Delavogias and I'm on a mission to master JavaScript. I've been diligently studying for the past 3 months and I'm excited to share my progress with you! 
+I'm Antonis Delavogias and I'm on a mission to master JavaScript. I've been diligently studying for the past months and I'm excited to share my progress with you! 
 
 **Current Skills:**
 
