@@ -13,7 +13,7 @@ I'm Antonis Delavogias and I'm on a mission to master JavaScript. I've been dili
  <img alt="YOUR-ALT-TEXT" src="https://cdn.iconscout.com/icon/free/png-512/free-css-37-226088.png?f=webp&w=256">
 </picture>
 <picture>
- <img alt="YOUR-ALT-TEXT" src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-2038874-1720087.png?f=webp&w=256">
+ <img alt="YOUR-ALT-TEXT" src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png">
 </picture>
 
 
