@@ -1,4 +1,5 @@
 ## Hi there! 👋
+<br>
 
 > [!IMPORTANT]  
 > I'm Antonis Delavogias and I'm on a mission to master JavaScript. I've been diligently studying for the past months and I'm excited to share my progress with you! Actively learning and mastering:
@@ -12,7 +13,7 @@
 <picture>
  <img alt="YOUR-ALT-TEXT" src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-1-225993.png?f=webp&w=256" width="160">
 </picture>
- <br><br>
+ <br>
 
 ###### I've gained a solid understanding of JavaScript fundamentals.
 ###### I'm comfortable working with DOM manipulation and events to create interactive web pages.
@@ -30,6 +31,7 @@
 > 🌱 I’m currently learning ...
 
 ###### [The Complete JavaScript Course 2024: From Zero to Expert!] (https://www.udemy.com/share/101WeY3@8T4uYTbjeQ8SL-FhhbjGPtpg2xRMr-3uoif0x3jMZNm6JSiBTt18kt6ptXHDibmwbA==/) by Jonas Schmedttman (In Progress)
+<br>
 
 ## 🙏 **What's Next:**
 
