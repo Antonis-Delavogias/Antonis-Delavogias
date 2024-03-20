@@ -8,7 +8,11 @@ I'm Antonis Delavogias and I'm on a mission to master JavaScript. I've been dili
  <source media="(prefers-color-scheme: light)" srcset="https://cdn.iconscout.com/icon/free/png-512/free-html5-42-1175210.png?f=webp&w=256">
  <img alt="YOUR-ALT-TEXT" src="https://cdn.iconscout.com/icon/free/png-512/free-html5-42-1175210.png?f=webp&w=256">
 </picture>
-
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://cdn.iconscout.com/icon/free/png-512/free-css-37-226088.png?f=webp&w=256">
+ <source media="(prefers-color-scheme: light)" srcset="https://cdn.iconscout.com/icon/free/png-512/free-css-37-226088.png?f=webp&w=256">
+ <img alt="YOUR-ALT-TEXT" src="https://cdn.iconscout.com/icon/free/png-512/free-css-37-226088.png?f=webp&w=256">
+</picture>
 
 
 * I've gained a solid understanding of JavaScript fundamentals. 
