@@ -28,7 +28,7 @@
 ######  [JavaScript: The Hard Parts, v2] (https://frontendmasters.com/courses/javascript-hard-parts-v2/) by Will Sentance
 <br><br>
 > [!NOTE] 
-> 🌱 I’m currently learning ...
+> I’m currently learning ...
 
 ###### [The Complete JavaScript Course 2024: From Zero to Expert!] (https://www.udemy.com/share/101WeY3@8T4uYTbjeQ8SL-FhhbjGPtpg2xRMr-3uoif0x3jMZNm6JSiBTt18kt6ptXHDibmwbA==/) by Jonas Schmedttman (In Progress)
 <br>
