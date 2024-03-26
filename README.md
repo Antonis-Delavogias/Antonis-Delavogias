@@ -43,6 +43,8 @@
 ###### [CS50: Introduction to Computer Science | Harvard University](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 <br>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Antonis-Delavogias)](https://git.io/streak-stats)
+
 ###### 😎 **Happy coding!** 😎
 
 
