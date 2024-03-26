@@ -31,8 +31,11 @@
 > I’m currently learning ...
 
 ###### [The Complete JavaScript Course 2024: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/?couponCode=KEEPLEARNING) by Jonas Schmedttman
+
 <br>
-###### [The Odin Project](https://www.theodinproject.com/)
+
+###### [THE ODIN PROJECT](https://www.theodinproject.com/)
+
 <br>
 
 ## 🙏 **What's Next:**
