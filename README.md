@@ -5,13 +5,13 @@
 > I'm Antonis Delavogias and I'm on a mission to master JavaScript. I've been diligently studying for the past months and I'm excited to share my progress with you! Actively learning and mastering:
  
 <picture>
-<img alt="YOUR-ALT-TEXT" src="https://cdn.iconscout.com/icon/free/png-512/free-html5-42-1175210.png?f=webp&w=256" width="200">
+<img alt="YOUR-ALT-TEXT" src="https://camo.githubusercontent.com/bfe6a48836e87b13a16f1f56f88fee428475c2ac29247992ec9b8bcc7154f881/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465">
 </picture>
 <picture>
- <img alt="YOUR-ALT-TEXT" src="https://cdn.iconscout.com/icon/free/png-512/free-css-38-226095.png?f=webp&w=256" width="200">
+ <img alt="YOUR-ALT-TEXT" src="https://camo.githubusercontent.com/472c222e8f240a48ae51cd9b082a1b857be809dcd851a25150890c2da50c13a5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465">
 </picture>
 <picture>
- <img alt="YOUR-ALT-TEXT" src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-1-225993.png?f=webp&w=256" width="160">
+ <img alt="YOUR-ALT-TEXT" src="https://camo.githubusercontent.com/53ec2e58e03ba275d9b3a386abd96a243cf744a1a7121bdf8262fc8ae6ebc335/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145">
 </picture>
  <br>
 
