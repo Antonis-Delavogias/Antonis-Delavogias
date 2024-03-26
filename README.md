@@ -32,9 +32,7 @@
 
 ###### [The Complete JavaScript Course 2024: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/?couponCode=KEEPLEARNING) by Jonas Schmedttman
 
-<br>
-
-###### [THE ODIN PROJECT](https://www.theodinproject.com/)
+###### [The Odin Project](https://www.theodinproject.com/)
 
 <br>
 
