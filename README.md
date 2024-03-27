@@ -40,6 +40,7 @@
 ###### I'm eager to continue honing my skills by:
 
 ###### [React]
+###### [Next.js]
 ###### [CS50: Introduction to Computer Science | Harvard University](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 <br>
 
