@@ -23,15 +23,17 @@
 ##  🚀 **Completed Courses:** 
 
 ######  [The Odin Project - HTML & CSS](https://www.connectinglink.com/courses/categories/1-credit-courses) - This course provided a comprehensive introduction to HTML & CSS and its core concepts.
+###### [The Odin Project](https://www.theodinproject.com/) (Advanced JavaScript)
 ######  [Getting Started with JavaScript, v2](https://frontendmasters.com/courses/getting-started-javascript-v2/) by Kyle Simpson
 ######  [JavaScript: From First Steps to Professional](https://frontendmasters.com/courses/javascript-first-steps/) by Anjana Vakil
 ######  [JavaScript: The Hard Parts, v2](https://frontendmasters.com/courses/javascript-hard-parts-v2/) by Will Sentance
+###### [The Complete JavaScript Course 2024: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/?couponCode=KEEPLEARNING) by Jonas Schmedttman
 <br><br>
 > [!NOTE] 
 > I’m currently learning ...
 > 
-###### [The Odin Project](https://www.theodinproject.com/) (Advanced JavaScript)
-###### [The Complete JavaScript Course 2024: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/?couponCode=KEEPLEARNING) by Jonas Schmedttman
+
+###### [React](https://www.udemy.com/share/108PTK3@9GwoweTj_uuZcjy7k-U7xsMGPCEc-sn9jjYPtma26ftn959fFZErpHZ4zt_r-vSkiQ==/) by Jonas Schmedttman
 
 <br>
 
@@ -39,7 +41,6 @@
 
 ###### I'm eager to continue honing my skills by:
 
-###### [React]
 ###### [Next.js]
 ###### [CS50: Introduction to Computer Science | Harvard University](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 <br>
