@@ -33,7 +33,7 @@
 > I’m currently learning ...
 > 
 
-###### [React](https://www.udemy.com/share/108PTK3@9GwoweTj_uuZcjy7k-U7xsMGPCEc-sn9jjYPtma26ftn959fFZErpHZ4zt_r-vSkiQ==/) by Jonas Schmedttman
+###### [The Ultimate React Course 2024: React, Redux & More](https://www.udemy.com/share/108PTK3@9GwoweTj_uuZcjy7k-U7xsMGPCEc-sn9jjYPtma26ftn959fFZErpHZ4zt_r-vSkiQ==/) by Jonas Schmedttman
 
 <br>
 
