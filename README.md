@@ -8,67 +8,61 @@
 ## 👋 Hi there!
 
 > [!IMPORTANT]  
-> I'm **Antonis Delavogias**, a nurse since 2019 who’s now fully committed to mastering **JavaScript**, **React**, and modern web development.  
-> After taking time off, I'm back with clarity, discipline, and a focused roadmap.
+> I'm **Antonis Delavogias**, a nurse since 2019 now fully committed to mastering **JavaScript**, **React**, and modern web development.  
+> After time away, I'm rebuilding with discipline, clarity, and a structured learning plan.
 
 <br>
 
 <!-- Icons -->
 <p align="left">
-  <picture>
-    <img alt="HTML5" src="https://img.icons8.com/?size=30&id=101353&format=png">
-  </picture>
-  <picture>
-    <img alt="CSS" src="https://img.icons8.com/?size=32&id=14464&format=png">
-  </picture>
-  <picture>
-    <img alt="JavaScript" src="https://img.icons8.com/?size=30&id=102838&format=png">
-  </picture>
+  <picture><img alt="HTML5" src="https://img.icons8.com/?size=30&id=101353&format=png"></picture>
+  <picture><img alt="CSS" src="https://img.icons8.com/?size=32&id=14464&format=png"></picture>
+  <picture><img alt="JavaScript" src="https://img.icons8.com/?size=30&id=102838&format=png"></picture>
 </p>
 
 <br>
 
-## 🌿 Current Focus
+## 🌿 Current Focus  
+A clean, structured restart:
 
-A clean restart with a serious, modern approach:
-
-Revisiting everything from the beginning to rebuild a strong foundation
-
-Deep study sessions even when contributions don’t appear online
-
-Strengthening JavaScript fundamentals with consistent daily practice
-
-Mastering React (hooks, components, state management)
-
-Pushing real-world projects as I rebuild my portfolio
-
-Maintaining an active, disciplined learning routine
+- Revisiting **all fundamentals from the beginning** to rebuild a solid base  
+- Studying consistently — even when activity isn’t visible online  
+- Strengthening **core JavaScript** logic  
+- Rebuilding my workflow with modern development practices  
+- Creating clean, real-world projects to grow my portfolio  
+- Staying disciplined with daily progress  
 
 <br>
 
 ## 📚 Currently Learning  
+Focused on sharpening essential skills before jumping deeper:
 
-- **The Ultimate React Course — Jonas Schmedtmann**  
-- **CS50 (Harvard)** — strengthening computer science thinking  
-- Modern workflows & problem-solving patterns  
+- JavaScript fundamentals (functions, arrays, objects, DOM)  
+- Writing clean, readable, maintainable code  
+- Problem-solving and logical thinking  
+- HTML & CSS structure and responsive design  
+- Modern developer tools and workflows  
 
 <br>
 
-## 🎯 Next Steps  
+## 🎯 What’s Next  
+As soon as the foundation is solid again:
 
+- **React** (hooks, components, state management)  
 - **Next.js**  
 - **TypeScript**  
-- Full-stack deployments (Vercel, Firebase, Supabase)  
+- Deploying full-stack apps with **Vercel**, **Firebase**, **Supabase**  
 
 <br>
 
-## 🧠 Completed Courses (Core Foundation)
+## 🧠 Completed Courses (Foundation Built)
+These formed the basis I’m now reinforcing:
 
 - **The Odin Project — HTML & CSS**  
 - **The Odin Project — JavaScript**  
-- *Getting Started with JavaScript, v2* — Kyle Simpson (Frontend Masters)  
+- *Getting Started with JavaScript v2* — Kyle Simpson  
 - *JavaScript: From First Steps to Professional* — Anjana Vakil  
-- *JavaScript: The Hard Parts, v2* — Will Sentance  
+- *JavaScript: The Hard Parts v2* — Will Sentance  
 - *Complete JavaScript Course 2024* — Jonas Schmedtmann  
 
 <br>
@@ -81,7 +75,9 @@ Maintaining an active, disciplined learning routine
 <br>
 
 ## 📁 Projects  
-_Updating soon — rebuilding & expanding my portfolio with modern, clean JavaScript and React apps._
+I’m currently rebuilding and updating my repositories with fresh, modern JavaScript and React projects.
+
+_New clean projects coming soon._
 
 <br>
 
@@ -95,6 +91,4 @@ _Updating soon — rebuilding & expanding my portfolio with modern, clean JavaSc
 <br>
 
 ## ✨ Final Notes  
-I’m pushing new code consistently as I rebuild my developer journey.  
-More updates and more polished projects are on the way.
-
+I’m progressing daily studying, building, and pushing consistent updates as I restart my developer journey with intention and discipline.
