@@ -5,7 +5,7 @@
 > I'm Antonis Delavogias, i work as a nurse since 2019 and I'm on a mission to master JavaScript. I've been diligently studying for the past months and I'm excited to share my progress with you! Actively learning and mastering:
  <br>
 <picture>
-<img alt="HTML5" src="https://img.icons8.com/?size=50&id=7hA5Ny9rDAmV&format=png">
+<img alt="HTML5" src="https://img.icons8.com/?size=30&id=101353&format=png">
 </picture>
 <picture>
  <img alt="CSS" src="https://img.icons8.com/?size=32&id=14464&format=png">
