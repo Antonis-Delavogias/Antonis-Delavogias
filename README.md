@@ -88,5 +88,5 @@ _Updating soon — rebuilding & expanding my portfolio with modern, clean JavaSc
 
 ## ✨ Final Notes  
 I’m pushing new code consistently as I rebuild my developer journey.  
-More updates — and more polished projects — are on the way.
+More updates and more polished projects are on the way.
 
