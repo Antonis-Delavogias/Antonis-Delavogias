@@ -28,13 +28,21 @@
 
 <br>
 
-## 🌿 Current Focus  
+## 🌿 Current Focus
+
 A clean restart with a serious, modern approach:
 
-- Rebuilding strong **JavaScript** foundations  
-- Mastering **React** (hooks, components, state management)  
-- Consistently pushing **real-world projects**  
-- Maintaining an active **GitHub streak**
+Revisiting everything from the beginning to rebuild a strong foundation
+
+Deep study sessions even when contributions don’t appear online
+
+Strengthening JavaScript fundamentals with consistent daily practice
+
+Mastering React (hooks, components, state management)
+
+Pushing real-world projects as I rebuild my portfolio
+
+Maintaining an active, disciplined learning routine
 
 <br>
 
