@@ -1,54 +1,92 @@
-## Hi there! 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://dummyimage.com/1000x200/1e1e1e/ffffff&text=Antonis+Delavogias+—+Frontend+Developer" alt="Banner" />
+</p>
+
 <br>
+
+## 👋 Hi there!
 
 > [!IMPORTANT]  
-> I'm Antonis Delavogias, i work as a nurse since 2019 and I'm on a mission to master JavaScript. I've been diligently studying for the past months and I'm excited to share my progress with you! Actively learning and mastering:
- <br>
-<picture>
-<img alt="HTML5" src="https://img.icons8.com/?size=30&id=101353&format=png">
-</picture>
-<picture>
- <img alt="CSS" src="https://img.icons8.com/?size=32&id=14464&format=png">
-</picture>
-<picture>
- <img alt="JavaScript" src="https://img.icons8.com/?size=30&id=102838&format=png">
-</picture>
- <br>
-
-###### I've gained a solid understanding of JavaScript fundamentals.
-###### I'm comfortable working with DOM manipulation and events to create interactive web pages.
-###### I'm constantly expanding my knowledge by exploring more advanced topics like object-oriented programming and asynchronous programming.
-<br>
-
-##  🚀 **Completed Courses:** 
-
-######  [The Odin Project - HTML & CSS](https://www.connectinglink.com/courses/categories/1-credit-courses) - This course provided a comprehensive introduction to HTML & CSS and its core concepts.
-###### [The Odin Project](https://www.theodinproject.com/) (Advanced JavaScript)
-######  [Getting Started with JavaScript, v2](https://frontendmasters.com/courses/getting-started-javascript-v2/) by Kyle Simpson
-######  [JavaScript: From First Steps to Professional](https://frontendmasters.com/courses/javascript-first-steps/) by Anjana Vakil
-######  [JavaScript: The Hard Parts, v2](https://frontendmasters.com/courses/javascript-hard-parts-v2/) by Will Sentance
-###### [The Complete JavaScript Course 2024: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/?couponCode=KEEPLEARNING) by Jonas Schmedttman
-<br><br>
-> [!NOTE] 
-> I’m currently learning ...
-> 
-
-###### [The Ultimate React Course 2024: React, Redux & More](https://www.udemy.com/share/108PTK3@9GwoweTj_uuZcjy7k-U7xsMGPCEc-sn9jjYPtma26ftn959fFZErpHZ4zt_r-vSkiQ==/) by Jonas Schmedttman
+> I'm **Antonis Delavogias**, a nurse since 2019 who’s now fully committed to mastering **JavaScript**, **React**, and modern web development.  
+> After taking time off, I'm back with clarity, discipline, and a focused roadmap.
 
 <br>
 
-## 🙏 **What's Next:**
+<!-- Icons -->
+<p align="left">
+  <picture>
+    <img alt="HTML5" src="https://img.icons8.com/?size=30&id=101353&format=png">
+  </picture>
+  <picture>
+    <img alt="CSS" src="https://img.icons8.com/?size=32&id=14464&format=png">
+  </picture>
+  <picture>
+    <img alt="JavaScript" src="https://img.icons8.com/?size=30&id=102838&format=png">
+  </picture>
+</p>
 
-###### I'm eager to continue honing my skills by:
-
-###### [Next.js]
-###### [CS50: Introduction to Computer Science | Harvard University](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 <br>
 
-## 📊 **Statistics**
+## 🌿 Current Focus  
+A clean restart with a serious, modern approach:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Antonis-Delavogias&theme=transparent&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=490)](https://git.io/streak-stats)
+- Rebuilding strong **JavaScript** foundations  
+- Mastering **React** (hooks, components, state management)  
+- Consistently pushing **real-world projects**  
+- Maintaining an active **GitHub streak**
 
-###### 😎 **Happy coding!** 😎
+<br>
 
+## 📚 Currently Learning  
+
+- **The Ultimate React Course — Jonas Schmedtmann**  
+- **CS50 (Harvard)** — strengthening computer science thinking  
+- Modern workflows & problem-solving patterns  
+
+<br>
+
+## 🎯 Next Steps  
+
+- **Next.js**  
+- **TypeScript**  
+- Full-stack deployments (Vercel, Firebase, Supabase)  
+
+<br>
+
+## 🧠 Completed Courses (Core Foundation)
+
+- **The Odin Project — HTML & CSS**  
+- **The Odin Project — JavaScript**  
+- *Getting Started with JavaScript, v2* — Kyle Simpson (Frontend Masters)  
+- *JavaScript: From First Steps to Professional* — Anjana Vakil  
+- *JavaScript: The Hard Parts, v2* — Will Sentance  
+- *Complete JavaScript Course 2024* — Jonas Schmedtmann  
+
+<br>
+
+## 🛠 Tech Stack  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,linux,vscode" />
+</p>
+
+<br>
+
+## 📁 Projects  
+_Updating soon — rebuilding & expanding my portfolio with modern, clean JavaScript and React apps._
+
+<br>
+
+## 📊 GitHub Statistics  
+<p align="left">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Antonis-Delavogias&theme=transparent&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500" alt="GitHub Streak" />
+  </a>
+</p>
+
+<br>
+
+## ✨ Final Notes  
+I’m pushing new code consistently as I rebuild my developer journey.  
+More updates — and more polished projects — are on the way.
 
